@@ -1,5 +1,5 @@
 # ASKFM_Project
-- this is my first OOP project whith c++
+- this is my first OOP project with c++
 
 # Project Features :
 - Sign up /Sign in
